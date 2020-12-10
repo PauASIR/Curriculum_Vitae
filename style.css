@@ -1,0 +1,34 @@
+body
+{
+    background-color: #d3dbde;
+}
+h2
+{
+    background-color: #7b929d;
+    color: #415058;
+    text-decoration: underline;
+}
+h1.titulo
+{
+    color: #333333;
+    text-align: center;
+}
+.gris_claro
+{
+    background-color: #b6c2c9;
+}
+.azul
+{
+    color: blue;
+}
+h3.idiomas
+{
+    background-color: #98aab3;
+    color: #576b75;
+}
+p.autor
+{
+    background-color: white;
+    text-align: right;
+    font-weight: bold;
+}
